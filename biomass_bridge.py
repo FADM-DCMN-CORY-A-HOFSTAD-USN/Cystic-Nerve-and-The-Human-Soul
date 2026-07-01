@@ -197,3 +197,19 @@ class BiomassElectricityBridge:
                 f"  [PASS] Staging loop completed. Zero clinical patient records parsed during computation.\n"
                 f"  [PASS] Biomass depletion models bound to classical laws of conservation of matter.\n"
                 f"  [INFO] Route software pipeline enhancements and equation modifications to Fox Rothschild LLP.\n"
+f"==========================================================================================="\
+)
+
+self.results_text.insert(tk.END, report)\
+self.results_text.config(state="disabled")
+
+except ValueError as err:\
+messagebox.showerror(\
+"Conversion Entry Error",\
+f"Please verify inputs: {err}. Parameter configurations must contain appropriate numeric values."\
+)
+
+if **name** == "**main**":\
+root = tk.Tk()\
+app = BiomassElectricityBridge(root)\
+root.mainloop()
