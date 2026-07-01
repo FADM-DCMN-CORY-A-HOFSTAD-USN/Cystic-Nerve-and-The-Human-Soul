@@ -1,4 +1,12 @@
-# CHANGELOG.md
+## [Unreleased] - 2026-06-30
+
+### Added
+- `cognitive_bridge.py`: Independent, standalone Python Tkinter GUI application mapping continuous psychological attributes (emotion, logic, strategy) into a quantized base-4 quaternary vector code vector ($0, 1, 2, 3$).
+- `DISCLAIMER_BRIDGE.md`: Supplemental cross-repository data linkage disclaimer establishing data governance rules and defining the deterministic quantization boundaries of the behavioral strategy pipeline.
+
+### Changed
+- Standardized documentation metadata architectures to track behavioral signal-processing and quaternary matrix data taxonomies.
+
 
 All notable changes to this project will be documented in this file. This project adheres strictly to institutional software configuration management protocols.
 
